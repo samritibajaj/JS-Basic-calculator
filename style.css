@@ -1,0 +1,27 @@
+
+.Calculator{
+  /* height: 80vh; */
+  /* display: flex; */
+  width: 300px;
+  background-color: rgb(241, 234, 234);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+input{
+  margin: 10px;
+  width: 90%;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+button{
+  margin: 5px;
+  height: 70px;
+  width: 70px;
+  font-size: larger;
+  gap: 20px;
+  cursor: pointer;
+}
+
